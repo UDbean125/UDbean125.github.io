@@ -7,7 +7,7 @@
     <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 22:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:35:37 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -330,6 +330,146 @@
       <guid isPermaLink="false">apple-updates-october-21-2026-evening-update-2026-10-21</guid>
       <enclosure url="https://muse.ai/podcasts/media/680185131855187/8023fe3e-43e6-4255-99d3-77155dd9288a/ep-3168cb40-bb71-46d9-839f-cde6816f49df.mp3" length="1770661" type="audio/mpeg"/>
       <itunes:duration>221</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 21, 2026</title>
+      <description>Maya and Sam cover the UK push to open iPhone NFC to rival wallets, the Australian Epic remedies judgment due Thursday, Loop Capital&#x27;s new iPhone shipment numbers, Mac mini assembly starting in Houston, and the Slow Horses season six finale.</description>
+      <pubDate>Wed, 21 Oct 2026 11:19:01 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-21-2026-2026-10-21</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-21-2026-2026-10-21.mp3" length="3143077" type="audio/mpeg"/>
+      <itunes:duration>392</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 20, 2026</title>
+      <description>Maya and Sam cover the confirmed Pro and Tell event for October 28 and its expected touchscreen OLED MacBook Pro, the iOS 27.2 release candidate, the official iPhone Duo battery capacity, the Taction patent motion that could grow the 5.7 billion dollar verdict, and Loop Capital&#x27;s downgrade to Hold.</description>
+      <pubDate>Tue, 20 Oct 2026 11:20:28 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-20-2026-2026-10-20</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-20-2026-2026-10-20.mp3" length="3177253" type="audio/mpeg"/>
+      <itunes:duration>397</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 19, 2026</title>
+      <description>Maya and Sam cover the reported robotic HomeView Max, the P7 DarkSword iPhone spyware and why updated phones are protected, the Q3 smartphone market collapse where Apple hit a record third-quarter share, the split Siri AI timeline for Apple home devices, and a launch-week correction on iPhone Duo walk-in stock.</description>
+      <pubDate>Mon, 19 Oct 2026 11:17:36 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-19-2026-2026-10-19</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-19-2026-2026-10-19.mp3" length="3369637" type="audio/mpeg"/>
+      <itunes:duration>421</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 18, 2026</title>
+      <description>Maya and Sam cover the iPhone Duo walk-in warning, four straight weeks of Apple launches, Apple stores looted in France protests, Withings charging new users for Apple Health sync, and the late October Mac Studio 512GB window.</description>
+      <pubDate>Sun, 18 Oct 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-18-2026-2026-10-18</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-18-2026-2026-10-18.mp3" length="3500581" type="audio/mpeg"/>
+      <itunes:duration>437</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 17, 2026</title>
+      <description>Maya and Sam cover extraordinary iPhone Duo demand slipping to January, Verizon&#x27;s ten dollar iPhone Handoff fee, tougher App Store deepfake rules, and Apple&#x27;s new litigation chief from Meta.</description>
+      <pubDate>Sat, 17 Oct 2026 11:19:32 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-17-2026-2026-10-17</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-17-2026-2026-10-17.mp3" length="3288805" type="audio/mpeg"/>
+      <itunes:duration>411</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 16, 2026</title>
+      <description>Maya and Sam cover iPhone Duo preorders going live, the Illinois faceprints privacy case headed to trial, Crossy Road Rush for Arcade, and Apples November second earnings date.</description>
+      <pubDate>Fri, 16 Oct 2026 11:16:03 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-16-2026-2026-10-16</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-16-2026-2026-10-16.mp3" length="2765029" type="audio/mpeg"/>
+      <itunes:duration>345</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 15, 2026</title>
+      <description>Maya and Sam cover Apple Intelligence approval in China, the confirmed October 28 Los Angeles launch for touchscreen MacBook Pro, OLED iPad mini and M6 Macs, OpenAI trade secrets concession, and iPhone Duo preorder eve.</description>
+      <pubDate>Thu, 15 Oct 2026 11:15:57 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-15-2026-2026-10-15</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-15-2026-2026-10-15.mp3" length="3018661" type="audio/mpeg"/>
+      <itunes:duration>377</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 14, 2026</title>
+      <description>Maya and Sam cover the confirmed Welcome Home launches: the 7-inch HomeView hub, the Apple Home Collection with LG and Schneider Electric, the pricier new Apple TV 4K and HomePod mini 2, plus iOS 27.2 beta 3, Apple&#x27;s near  trillion close, and its OpenAI trade secrets win.</description>
+      <pubDate>Wed, 14 Oct 2026 11:16:16 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-14-2026-2026-10-14</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-14-2026-2026-10-14.mp3" length="3050149" type="audio/mpeg"/>
+      <itunes:duration>381</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 13, 2026</title>
+      <description>Maya and Sam cover event day in New York as Apple prepares to unveil HomeView, the new HomePod mini, and a new Apple TV, plus Indie Games Week, the iPhone Duo&#x27;s near delay to November, and Morgan Stanley&#x27;s bullish but trimmed outlook.</description>
+      <pubDate>Tue, 13 Oct 2026 11:16:41 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-13-2026-2026-10-13</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-13-2026-2026-10-13.mp3" length="3085861" type="audio/mpeg"/>
+      <itunes:duration>385</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 12, 2026</title>
+      <description>Maya and Sam cover the iPhone Duo Get Ready window opening today, Apple hiring the Huxe A I podcast team, festive Diwali offers in India, and John Ternus taking closer control of Apple design.</description>
+      <pubDate>Mon, 12 Oct 2026 11:16:27 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-12-2026-2026-10-12</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-12-2026-2026-10-12.mp3" length="2579941" type="audio/mpeg"/>
+      <itunes:duration>322</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 11, 2026</title>
+      <description>Maya and Sam preview Tuesday&#x27;s Welcome Home event with the rumored ADT partnership and new Home Hub details, cover the emergency AT&amp;T carrier update for iPhone 18 Pro Max beta users, Apple&#x27;s iOS 27 upgrade nudge, and what&#x27;s new on Apple TV this week.</description>
+      <pubDate>Sun, 11 Oct 2026 11:16:05 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-11-2026-2026-10-11</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-11-2026-2026-10-11.mp3" length="3101029" type="audio/mpeg"/>
+      <itunes:duration>387</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 10, 2026</title>
+      <description>Maya and Sam cover Safari&#x27;s ad-industry-shaking WebKit blocklist, the iPhone Duo&#x27;s personalized first boot screen and Monday&#x27;s Get Ready window, and Friday&#x27;s 03B stock slide with Wall Street&#x27;s split verdict.</description>
+      <pubDate>Sat, 10 Oct 2026 11:16:27 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-10-2026-2026-10-10</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-10-2026-2026-10-10.mp3" length="3637669" type="audio/mpeg"/>
+      <itunes:duration>454</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 9, 2026</title>
+      <description>Maya and Sam cover the Nikkei report of iPhone 18 component order cuts on soft demand, Apple&#x27;s leadership shuffle with a new M&amp;A chief and App Store VP, fresh Apple TV and HomePod leaks ahead of the October 13 Welcome Home event, and today&#x27;s new Apple TV releases.</description>
+      <pubDate>Fri, 09 Oct 2026 11:15:35 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-9-2026-2026-10-09</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-9-2026-2026-10-09.mp3" length="2776933" type="audio/mpeg"/>
+      <itunes:duration>347</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 8, 2026</title>
+      <description>Maya and Sam cover the Apple-LG smart home partnership and October 13 launch, a two-event October with new Macs, the 18M Masimo ruling, Apple&#x27;s trade secrets fight with OpenAI, and iPhone Duo app submissions.</description>
+      <pubDate>Thu, 08 Oct 2026 11:15:17 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-8-2026-2026-10-08</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-october-8-2026-2026-10-08.mp3" length="2854885" type="audio/mpeg"/>
+      <itunes:duration>356</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

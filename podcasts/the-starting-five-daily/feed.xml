@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 22:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:35:37 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -330,6 +330,16 @@
       <guid isPermaLink="false">the-starting-five-october-21-2026-evening-update-2026-10-21</guid>
       <enclosure url="https://muse.ai/podcasts/media/680185131855187/f0890936-e5fd-480a-8913-98b625e8dff1/ep-3a6111f2-21d4-41f1-9615-c736a7d1fa26.mp3" length="4620325" type="audio/mpeg"/>
       <itunes:duration>577</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 21, 2026</title>
+      <description>Dana and Marcus lead with Ohio State losing quarterback Julian Sayin indefinitely and the backup battle between Luke Fahey and Tavien St. Clair, break down how the Pistons built the biggest opening night comeback in the play by play era, cover Brian Branch and Cade Mays returning for the Lions against Green Bay plus the Kerby Joseph update, preview a healthier South Carolina against Tennessee, and recap Dayton&#x27;s exhibition win over Notre Dame led by Malcolm Thomas.</description>
+      <pubDate>Wed, 21 Oct 2026 09:48:15 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-21-2026-2026-10-21</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/the-starting-five-daily/episodes/the-starting-five-october-21-2026-2026-10-21.mp3" length="6816997" type="audio/mpeg"/>
+      <itunes:duration>852</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
