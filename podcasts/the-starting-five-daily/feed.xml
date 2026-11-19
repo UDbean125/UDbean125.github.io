@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>The Starting Five Daily</title>
+    <link>https://hen-solutions.com</link>
+    <atom:link href="https://udbean125.github.io/podcasts/the-starting-five-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
+    <language>en-us</language>
+    <copyright>Bryan Hennigan</copyright>
+    <lastBuildDate>Thu, 19 Nov 2026 22:07:30 GMT</lastBuildDate>
+    <itunes:author>Bryan Hennigan</itunes:author>
+    <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bryan Hennigan</itunes:name>
+      <itunes:email>BryanHennigan@iCloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://udbean125.github.io/podcasts/the-starting-five-daily/cover.jpg"/>
+    <image>
+      <url>https://udbean125.github.io/podcasts/the-starting-five-daily/cover.jpg</url>
+      <title>The Starting Five Daily</title>
+      <link>https://hen-solutions.com</link>
+    </image>
+    <itunes:category text="Sports"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 19, 2026</title>
+      <description>Pippa and Theadore on the Pistons winning in New Orleans without Cade Cunningham, Kerby Joseph&#x27;s activation and Aidan Hutchinson to injured reserve for the Lions, Ohio State&#x27;s Wednesday availability report for Nebraska, LaNorris Sellers cleared for South Carolina&#x27;s night game against number one Georgia, and Dayton&#x27;s Charleston Classic opener against Utah.</description>
+      <pubDate>Thu, 19 Nov 2026 10:48:08 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-19-2026-2026-11-19</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-7101c950-73b5-4c2d-9151-a6921767691c.mp3" length="7000165" type="audio/mpeg"/>
+      <itunes:duration>875</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 18, 2026</title>
+      <description>Pistons snap the Spurs&#x27; 12-game streak in San Antonio, Dayton rolls Central Michigan, Kerby Joseph&#x27;s return plan and Dan Campbell&#x27;s defiance, Ohio State climbs to No. 14 in the CFP, and South Carolina waits on LaNorris Sellers before No. 1 Georgia, with Pippa and Theadore.</description>
+      <pubDate>Wed, 18 Nov 2026 10:47:15 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-18-2026-2026-11-18</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-40a39880-86a7-4982-93ba-817226b514b5.mp3" length="7115365" type="audio/mpeg"/>
+      <itunes:duration>889</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 17, 2026</title>
+      <description>Lions get the confirmed Hutchinson diagnosis with a clean-tear silver lining, the short-handed Pistons visit San Antonio, Ohio State climbs to No. 16 before the CFP reveal, the SEC clears South Carolina as Georgia looms, and Dayton hosts undefeated Central Michigan, with Pippa and Theadore.</description>
+      <pubDate>Tue, 17 Nov 2026 10:48:40 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-17-2026-2026-11-17</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-eb346a52-802a-4b5b-af57-609c123ed157.mp3" length="6912229" type="audio/mpeg"/>
+      <itunes:duration>864</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 16, 2026</title>
+      <description>Lions rout the Patriots in Munich but lose Aidan Hutchinson to a knee injury, Pistons watch Duncan Robinson&#x27;s quad ahead of San Antonio, Ohio State climbs to No. 17 in the coaches poll before Nebraska, South Carolina waits on LaNorris Sellers with No. 1 Georgia coming, and Dayton hosts undefeated Central Michigan, with Pippa and Theadore.</description>
+      <pubDate>Mon, 16 Nov 2026 10:48:10 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-16-2026-2026-11-16</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-32ee2202-83ea-461a-803f-8a3b08aa14db.mp3" length="6255589" type="audio/mpeg"/>
+      <itunes:duration>781</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 15, 2026</title>
+      <description>Ohio State beats Northwestern behind Jeremiah Smith&#x27;s Big Ten record, South Carolina falls at Arkansas without LaNorris Sellers, Dayton and the Pistons lose big, and the Lions kick off in Munich, with Pippa and Theadore.</description>
+      <pubDate>Sun, 15 Nov 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-15-2026-2026-11-15</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-6e97ac63-3d2d-4787-a28f-310ed9928e4f.mp3" length="7307941" type="audio/mpeg"/>
+      <itunes:duration>913</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 14, 2026</title>
+      <description>Pippa and Theadore on a stacked Saturday: Ohio State&#x27;s patchwork offensive line against Northwestern at noon, the Pistons walking into Giannis and Bam&#x27;s Miami buzzsaw, South Carolina at Arkansas without Nyck Harbor, Dayton in the Chapel Blues against Cincinnati, and the Lions&#x27; final Munich report with Dan Campbell&#x27;s German press conference.</description>
+      <pubDate>Sat, 14 Nov 2026 10:48:02 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-14-2026-2026-11-14</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-58b61809-58f6-4491-b249-5c5f0185b6f2.mp3" length="6375589" type="audio/mpeg"/>
+      <itunes:duration>796</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 13, 2026</title>
+      <description>Pippa and Theadore on Cade Cunningham&#x27;s historic fifty-two point, zero turnover double overtime night in Washington, the Lions&#x27; Thursday Munich report with Kerby Joseph&#x27;s activation clock down to six days, LaNorris Sellers upgraded to probable for Arkansas while his receiver room thins, Brandon Inniss cleared for Ohio State with Luke Montgomery newly questionable, and Dayton&#x27;s sold out Saturday date with Cincinnati.</description>
+      <pubDate>Fri, 13 Nov 2026 10:47:34 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-13-2026-2026-11-13</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-c1830ec0-9575-4ebe-914c-74b5b0a39cc8.mp3" length="6170533" type="audio/mpeg"/>
+      <itunes:duration>771</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 12, 2026</title>
+      <description>Pippa and Theadore on LaNorris Sellers landing as questionable on South Carolina&#x27;s first Arkansas availability report, Ohio State&#x27;s thin receiver room and Northwestern losing Aidan Chiles, the Lions&#x27; Wednesday report with Jared Goff limited before Munich, the Pistons&#x27; rested rematch in Washington, and Dayton&#x27;s season-shaping Cincinnati visit.</description>
+      <pubDate>Thu, 12 Nov 2026 10:48:21 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-12-2026-2026-11-12</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-2b682252-16e4-4e74-8313-ac3d283283b5.mp3" length="6760357" type="audio/mpeg"/>
+      <itunes:duration>845</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 11, 2026</title>
+      <description>Pippa and Theadore on Dayton&#x27;s second straight home loss to Siena, Ohio State falling to its lowest CFP ranking ever, South Carolina climbing to No. 17, the Lions standing pat at the trade deadline with Kerby Joseph&#x27;s clock ticking, and the Pistons&#x27; ten-game check-in.</description>
+      <pubDate>Wed, 11 Nov 2026 10:47:49 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-11-2026-2026-11-11</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-07d7af74-51b1-488e-8f1a-6d080397f736.mp3" length="6879973" type="audio/mpeg"/>
+      <itunes:duration>859</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 10, 2026</title>
+      <description>Pippa and Theadore on the Lions trading for Andre Cisco and climbing to second in the NFC North, the Pistons beating Washington behind John Collins and Daniss Jenkins, Ohio State firing its special teams coordinator, LaNorris Sellers trending toward playing at Arkansas, and Dayton hosting Siena.</description>
+      <pubDate>Tue, 10 Nov 2026 10:48:48 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-10-2026-2026-11-10</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-3c2de978-7adc-442c-82f5-0fa322896d51.mp3" length="6790117" type="audio/mpeg"/>
+      <itunes:duration>848</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 9, 2026</title>
+      <description>The Lions win ugly in Miami behind four Jake Bates field goals and a defense honoring Jack Campbell, the Pistons blow a twenty-six point hole and nearly climb out against the Luka-less Lakers, Ohio State falls to number twenty-one in the A P poll, South Carolina climbs to number twenty, and Dayton braces for Siena&#x27;s perfect-shooting freshman.</description>
+      <pubDate>Mon, 09 Nov 2026 10:48:56 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-9-2026-2026-11-09</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-b09ad2c6-6c20-4d74-850f-c8fb244db246.mp3" length="7122277" type="audio/mpeg"/>
+      <itunes:duration>890</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 8, 2026</title>
+      <description>Ohio State&#x27;s playoff hopes collapse against Oregon, South Carolina clinches a bowl on LaNorris Sellers&#x27; bad ankle, Dayton falls in overtime at home, the Lions place Jack Campbell on injured reserve but get Amon-Ra St. Brown back for Miami, and the Pistons host the Lakers with Luka Doncic questionable.</description>
+      <pubDate>Sun, 08 Nov 2026 10:48:23 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-8-2026-2026-11-08</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-2ed496f3-05ef-4c08-8c1c-ef7f5e219e82.mp3" length="7306213" type="audio/mpeg"/>
+      <itunes:duration>913</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 7, 2026</title>
+      <description>Ohio State hosts Oregon in a playoff eliminator with its full offensive line back and Jeremiah Smith chasing a statement game, South Carolina gets Donovan Murph back for a bowl-eligibility shot against Texas A&amp;M, Dayton tests its press against Northern Illinois and a point guard with sixteen assists and one turnover, the Lions rule five out with Amon-Ra St. Brown questionable for Miami as Brian Branch clears concussion protocol, and the Pistons brace for Luka Doncic after his fifty-three point night for the Lakers.</description>
+      <pubDate>Sat, 07 Nov 2026 10:50:54 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-7-2026-2026-11-07</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-aa24f0a8-9c1e-4ee2-a745-5149d32b0fa3.mp3" length="7121701" type="audio/mpeg"/>
+      <itunes:duration>890</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 6, 2026</title>
+      <description>The Lions rally around Jack Campbell&#x27;s number 46 in Miami as Brian Branch returns to full practice, Ohio State gets a left-tackle hint from Ryan Day before Saturday&#x27;s playoff eliminator against Oregon, South Carolina settles every questionable name for a bowl-eligibility shot against Texas A&amp;M, the Pistons confront an offense completely flipped by Jalen Duren&#x27;s absence before the Lakers arrive, and Dayton draws a road-weary Northern Illinois team that Tulsa just outrebounded by sixteen.</description>
+      <pubDate>Fri, 06 Nov 2026 10:50:04 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-6-2026-2026-11-06</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-817961c6-ae82-4f5e-8067-09ef945ce2b0.mp3" length="6902629" type="audio/mpeg"/>
+      <itunes:duration>862</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 5, 2026</title>
+      <description>The Pistons fall 112-106 to Philadelphia in the East&#x27;s top-two showdown despite Duncan Robinson&#x27;s seven threes, Jack Campbell shares his own encouraging update as the Lions prep for Miami, Ohio State and Oregon trade availability news before Saturday&#x27;s playoff eliminator, South Carolina gets Scott and Howell back for a bowl-eligibility shot against Texas A&amp;M, and Dayton hosts a road-weary Northern Illinois.</description>
+      <pubDate>Thu, 05 Nov 2026 10:52:30 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-5-2026-2026-11-05</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-fd765d5b-19b0-4209-867f-6f6b0349325d.mp3" length="7169509" type="audio/mpeg"/>
+      <itunes:duration>896</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 4, 2026</title>
+      <description>Daily coverage of the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton basketball with Pippa and Theadore.</description>
+      <pubDate>Wed, 04 Nov 2026 10:48:25 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-4-2026-2026-11-04</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-a6212ce2-49dd-4774-b340-10a8b39f3942.mp3" length="7099429" type="audio/mpeg"/>
+      <itunes:duration>887</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 3, 2026</title>
+      <description>Daily coverage of the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton basketball with Pippa and Theadore.</description>
+      <pubDate>Tue, 03 Nov 2026 10:46:35 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-3-2026-2026-11-03</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-9571732d-f1de-4a1b-ab73-d7e616006a2c.mp3" length="6375781" type="audio/mpeg"/>
+      <itunes:duration>796</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 2, 2026</title>
+      <description>The Lions hand Minnesota its first loss 19-15 but lose Jack Campbell to a neck injury, Ohio State falls to No. 11 in the AP poll, South Carolina enters at No. 23, the Pistons visit Charlotte as Coby White returns, and Dayton opens against NJIT.</description>
+      <pubDate>Mon, 02 Nov 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-2-2026-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-e2925007-5081-4b29-82a5-652b544eb1a7.mp3" length="7106341" type="audio/mpeg"/>
+      <itunes:duration>888</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - November 1, 2026</title>
+      <description>South Carolina rolls Oklahoma 42-25 behind LaNorris Sellers&#x27; five touchdowns, Ohio State falls 30-18 at USC in Luke Fahey&#x27;s first start, the Lions host undefeated Minnesota today, the 5-1 Pistons get a Charlotte rematch Monday, and Dayton opens its season Monday against NJIT.</description>
+      <pubDate>Sun, 01 Nov 2026 10:47:48 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-1-2026-2026-11-01</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-fda67279-472a-470d-9225-1668f989e9e2.mp3" length="6945253" type="audio/mpeg"/>
+      <itunes:duration>868</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 31, 2026</title>
+      <description>The Pistons go 5-1 in Brooklyn behind Ron Holland&#x27;s third-quarter explosion, the Lions rule Kerby Joseph out but clear Gibbs and St. Brown for Minnesota, Luke Fahey is reported to start for Ohio State at USC, South Carolina&#x27;s Friday report holds still while Oklahoma gets Peyton Bowen back, and Dayton&#x27;s opener streak is on the line Monday.</description>
+      <pubDate>Sat, 31 Oct 2026 09:46:21 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-31-2026-2026-10-31</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-138dfe71-0ba8-4c1c-b1ab-d04d57161ac6.mp3" length="6902437" type="audio/mpeg"/>
+      <itunes:duration>862</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 30, 2026</title>
+      <description>Gibbs and St. Brown go full for the Lions ahead of Minnesota, the Pistons open NBA Cup play at Brooklyn, Ohio State&#x27;s Siereveld is available but may not play the full game at USC, South Carolina rules Scott and Howell out for Oklahoma, and Dayton counts down to NJIT.</description>
+      <pubDate>Fri, 30 Oct 2026 09:47:09 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-30-2026-2026-10-30</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-fff9cc57-bbf0-4f68-af40-cee228693288.mp3" length="7063333" type="audio/mpeg"/>
+      <itunes:duration>882</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 29, 2026</title>
+      <description>Pistons bounce back over Charlotte behind Cade Cunningham&#x27;s season-high 30, Kerby Joseph&#x27;s practice window opens for the Lions while Gibbs sits with a shoulder, Ryan Day still will not name a quarterback for USC, South Carolina&#x27;s Mazeo Bennett is clear for Oklahoma, and Dayton&#x27;s quiet countdown to NJIT.</description>
+      <pubDate>Thu, 29 Oct 2026 09:47:40 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-29-2026-2026-10-29</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-9c6512b9-643b-4d1f-8f80-6e7e346442f6.mp3" length="7031461" type="audio/mpeg"/>
+      <itunes:duration>878</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 28, 2026</title>
+      <description>Pistons drop their first game in a middle-quarter collapse at the Knicks and get Charlotte tonight, St. Brown&#x27;s ankle gets the Tuesday microscope before unbeaten Minnesota, Ryan Day&#x27;s Tuesday presser still names no quarterback for USC, South Carolina fights the SEC flu on its way to Oklahoma, and Dayton&#x27;s quiet countdown to NJIT.</description>
+      <pubDate>Wed, 28 Oct 2026 09:47:25 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-28-2026-2026-10-28</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-bf9117ca-b6b6-4535-a6c6-ae6c9ade5306.mp3" length="6644005" type="audio/mpeg"/>
+      <itunes:duration>830</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 27, 2026</title>
+      <description>Pistons take their unbeaten start into Madison Square Garden against the winless defending champion Knicks, the Lions get Monday ankle news on St. Brown and Rakestraw before unbeaten Minnesota, Ohio State still won&#x27;t name a quarterback for USC, South Carolina flips an Auburn commit and heads to Oklahoma, and Dayton&#x27;s A-10 preseason standing frames its opener countdown.</description>
+      <pubDate>Tue, 27 Oct 2026 09:48:09 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-27-2026-2026-10-27</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-7822ec6e-90cf-4bfb-a8ea-0b5ce806f580.mp3" length="6990181" type="audio/mpeg"/>
+      <itunes:duration>873</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 26, 2026</title>
+      <description>Lions walk off Green Bay and Pistons go 3-0 shorthanded in Philadelphia, Ohio State rises to No. 2 with Coliseum history looming, South Carolina gets poll votes and a fresh Oklahoma scouting report, and Dayton counts down to its opener.</description>
+      <pubDate>Mon, 26 Oct 2026 09:46:12 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-26-2026-2026-10-26</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-434c55f3-3e53-46cc-a1ea-fd0beb79e3df.mp3" length="6399205" type="audio/mpeg"/>
+      <itunes:duration>799</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 25, 2026</title>
+      <description>South Carolina walks off No. 11 Tennessee, Wisconsin embarrasses USC before Ohio State&#x27;s trip, the Pistons go to Philadelphia without Duren, the Lions activate Branch and Mays for Green Bay, and Dayton romps in its final exhibition.</description>
+      <pubDate>Sun, 25 Oct 2026 09:46:13 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-25-2026-2026-10-25</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-45bbe547-4403-4030-979f-59dfcdc8c1cb.mp3" length="7114021" type="audio/mpeg"/>
+      <itunes:duration>889</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 24, 2026</title>
+      <description>Pistons win in Miami but lose Duren and Thompson, Lions get Branch and Mays back while Green Bay loses Franklin, South Carolina is favored over No. 11 Tennessee, Ohio State scouts USC at Wisconsin, and Dayton faces Morehead State in its final exhibition.</description>
+      <pubDate>Sat, 24 Oct 2026 09:47:22 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-24-2026-2026-10-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-95b853c6-b822-49c6-b827-445962e98e62.mp3" length="7287973" type="audio/mpeg"/>
+      <itunes:duration>910</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 23, 2026</title>
+      <description>Pistons at Miami tonight with Taurean Prince back, Lions get final injury answers before Green Bay, South Carolina health improves for Tennessee, Ohio State&#x27;s playoff doubters get loud, and Dayton&#x27;s final exhibition.</description>
+      <pubDate>Fri, 23 Oct 2026 09:47:32 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-23-2026-2026-10-23</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-18c515a6-56c8-430c-a556-553fffe1b42e.mp3" length="7406821" type="audio/mpeg"/>
+      <itunes:duration>925</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 22, 2026</title>
+      <description>Pippa and Theadore lead with the fresh injury reports: Detroit&#x27;s clean three-name list for Green Bay, South Carolina&#x27;s short availability report for Tennessee, plus Miami&#x27;s opening-night loss ahead of the Pistons trip, Ohio State&#x27;s two-man quarterback contrast, and Dayton&#x27;s rebuilt roster before Morehead State.</description>
+      <pubDate>Thu, 22 Oct 2026 09:48:43 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-22-2026-2026-10-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-f45ed4ec-2fc3-4470-af07-14d4ba72d6b6.mp3" length="7374949" type="audio/mpeg"/>
+      <itunes:duration>921</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 21, 2026 Launch Special</title>
+      <description>Pippa and Theadore launch the new home of The Starting Five and introduce the five teams, four cities, daily format, and cover art story.</description>
+      <pubDate>Wed, 21 Oct 2026 17:36:05 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-21-2026-launch-special-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-a9b4a9f5-c729-43db-ac7c-2ec9ff8135d0.mp3" length="1822885" type="audio/mpeg"/>
+      <itunes:duration>227</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 21, 2026 Evening Update</title>
+      <description>Pippa and Theadore cover only what changed since the morning: Cade Mays named the Lions starting center with no rotation, Josh Jacobs expected to debut for Green Bay while Micah Parsons is out, Ohio State running back Ja&#x27;Kobi Jackson facing surgery, and Tennessee settling on George MacIntyre at quarterback for the South Carolina game.</description>
+      <pubDate>Wed, 21 Oct 2026 16:55:39 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-21-2026-evening-update-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/f0890936-e5fd-480a-8913-98b625e8dff1/ep-3a6111f2-21d4-41f1-9615-c736a7d1fa26.mp3" length="4620325" type="audio/mpeg"/>
+      <itunes:duration>577</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Starting Five - October 20, 2026</title>
+      <description>Dana and Marcus launch The Starting Five with the Pistons&#x27; opening day win over Boston, the Lions coming off the bye into Green Bay, Ohio State surviving chaos week at number three, South Carolina&#x27;s shot at Tennessee, and Dayton&#x27;s tip off countdown.</description>
+      <pubDate>Wed, 21 Oct 2026 02:50:22 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-october-20-2026-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-a785828f-2a2a-4965-856f-0e917e36156b.mp3" length="2456456" type="audio/mpeg"/>
+      <itunes:duration>307</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

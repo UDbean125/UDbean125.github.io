@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Apple Updates Daily</title>
+    <link>https://hen-solutions.com</link>
+    <atom:link href="https://udbean125.github.io/podcasts/apple-updates-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
+    <language>en-us</language>
+    <copyright>Bryan Hennigan</copyright>
+    <lastBuildDate>Thu, 19 Nov 2026 22:07:30 GMT</lastBuildDate>
+    <itunes:author>Bryan Hennigan</itunes:author>
+    <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bryan Hennigan</itunes:name>
+      <itunes:email>BryanHennigan@iCloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://udbean125.github.io/podcasts/apple-updates-daily/cover.jpg"/>
+    <image>
+      <url>https://udbean125.github.io/podcasts/apple-updates-daily/cover.jpg</url>
+      <title>Apple Updates Daily</title>
+      <link>https://hen-solutions.com</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Apple Updates - November 19, 2026</title>
+      <description>Apple names 45 App Store Award finalists, Creator Studio fall updates go live, HomeView gets its first patch, Apple Card doubles Daily Cash, and the 20th anniversary iPhone leaks turn curvy and titanium.</description>
+      <pubDate>Thu, 19 Nov 2026 12:19:01 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-19-2026-2026-11-19</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-b200728a-e100-406f-af6d-0c9e309b4ea9.mp3" length="3206629" type="audio/mpeg"/>
+      <itunes:duration>400</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 18, 2026</title>
+      <description>Apple Maps launches an all-new India experience, Apple blames an internal update for the November 17 services outage, iPhone Duo DIY repair parts go on sale, iFixit finds HomeView glued shut, and Keke Palmer wins Apple Podcasts Show of the Year.</description>
+      <pubDate>Wed, 18 Nov 2026 12:19:21 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-18-2026-2026-11-18</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-440a82e6-b7e7-44c0-a30f-1948e2ca2824.mp3" length="3419941" type="audio/mpeg"/>
+      <itunes:duration>427</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 17, 2026</title>
+      <description>iOS 27.3 beta 2 gives iPhone Duo a camera face unlock and Siri AI daily limits tied to iCloud+, macOS tightens AI agent permissions, Apple nears a long-term Samsung DRAM deal, Duo apps pass 200,000, and France sets a repair trial.</description>
+      <pubDate>Tue, 17 Nov 2026 12:19:36 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-17-2026-2026-11-17</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-a79a6a19-ad4f-4e1c-8d97-be994a471a91.mp3" length="3361381" type="audio/mpeg"/>
+      <itunes:duration>420</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 16, 2026</title>
+      <description>Apple launches a 200,000-person Health AI study with OpenEvidence, video podcasts head to the Apple TV app, Gurman details the N50 smart glasses and a Face ID deadline risk for iPhone Duo 2, and the new Apple TV 4K&#x27;s A19 runs with one core off.</description>
+      <pubDate>Mon, 16 Nov 2026 12:18:31 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-16-2026-2026-11-16</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-d9351618-5fdd-4e81-8424-96277b1df2bd.mp3" length="3390373" type="audio/mpeg"/>
+      <itunes:duration>423</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 15, 2026</title>
+      <description>Early Black Friday drops the Watch Series 12 to 29, Apple publishes HomeView support guides, ESR&#x27;s kickstand charger fixes the Duo, Labrinth&#x27;s Surrender lands on Apple Music, and Live Activities come to older Macs.</description>
+      <pubDate>Sun, 15 Nov 2026 12:17:40 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-15-2026-2026-11-15</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-24ae909d-d584-481e-9533-3ae811f5ec70.mp3" length="3180133" type="audio/mpeg"/>
+      <itunes:duration>397</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 14, 2026</title>
+      <description>Siri AI arrives on older Apple TV 4K models in tvOS 27.2.1, a launch-day YouTube glitch gets its fix, the first Apple Home Collection accessories open for orders, Trump floats Tim Cook for the Nvidia job, and King Charles joins Elton John on Apple Music.</description>
+      <pubDate>Sat, 14 Nov 2026 12:18:38 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-14-2026-2026-11-14</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-a9090c1f-bb01-48a3-add6-45d968529c11.mp3" length="3252325" type="audio/mpeg"/>
+      <itunes:duration>406</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 13, 2026</title>
+      <description>HomeView and the new Apple TV 4K launch today, Secure Exclaves keep HomeView camera data private, iPhone Duo deliveries jump to December, Samsung foldables join trade-ins, and Apple TV drops three premieres at once.</description>
+      <pubDate>Fri, 13 Nov 2026 12:20:03 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-13-2026-2026-11-13</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-8e4dac69-c725-46a0-a535-265f1d6db8e4.mp3" length="3231589" type="audio/mpeg"/>
+      <itunes:duration>403</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 12, 2026</title>
+      <description>Apple&#x27;s Dreamer holiday film for MacBook Neo, Siri Health code in iOS 27.3, Apple Invites polls, Safari Global Privacy Control, and Blackmagic&#x27;s Apple-licensed spatial microphone.</description>
+      <pubDate>Thu, 12 Nov 2026 12:18:57 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-12-2026-2026-11-12</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-56806b3f-fd49-4e2f-8c66-e49a9397e652.mp3" length="3306277" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 11, 2026</title>
+      <description>Apple closes its 28-year Support Community, Apple TV adds sign language interpretation, Football Manager 27 Touch headlines Arcade, Claris tests Harbor for local AI on Mac, and the Swift Student Challenge opens to every platform.</description>
+      <pubDate>Wed, 11 Nov 2026 12:18:38 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-11-2026-2026-11-11</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-fa9b2651-173f-45d8-9b77-59a593079ab1.mp3" length="3280933" type="audio/mpeg"/>
+      <itunes:duration>410</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 10, 2026</title>
+      <description>iOS 27.2.1 patches an iMessage group-chat flaw, Apple sells 49.99 dollar Intelligence Usage Packs for Logic Pro, seven new facilities are coming to Turkiye, Las Vegas Formula 1 streams free on Apple TV, and Olivia Dean is Apple Music Artist of the Year.</description>
+      <pubDate>Tue, 10 Nov 2026 12:19:46 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-10-2026-2026-11-10</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-06b41165-d4b9-4c2e-a557-6c10bf3a42ae.mp3" length="3213733" type="audio/mpeg"/>
+      <itunes:duration>401</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 9, 2026</title>
+      <description>Ternus presses Federighi to make Siri agentic by spring 2027, Apple drops its Store subscription target after a consent controversy, Singapore saves Apple 2.7 billion dollars in tax, Apple Intelligence registers in China for tablets and laptops, and HomeView code hints at third-party chatbots.</description>
+      <pubDate>Mon, 09 Nov 2026 12:18:14 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-9-2026-2026-11-09</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-6afba485-41d3-4682-945a-71b999b3db40.mp3" length="3594085" type="audio/mpeg"/>
+      <itunes:duration>449</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 8, 2026</title>
+      <description>Touchscreen MacBook Pro reviews call the OLED stunning and the touch forgettable, Apple Music adds Selfie Sing karaoke, Reuters reveals a 100,000-phrase keyboard grey list, MacBook Neo is expected to double to 16 million, and Apple cuts engineers&#x27; AI budgets while R&amp;D jumps 32 percent.</description>
+      <pubDate>Sun, 08 Nov 2026 12:20:45 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-8-2026-2026-11-08</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-f692ebe6-901d-4219-bd72-91d40f80b2f7.mp3" length="3258469" type="audio/mpeg"/>
+      <itunes:duration>407</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 7, 2026</title>
+      <description>Siri AI drops its waitlist, iPhone Duo passes 100,000 optimized apps, Formula 1 expects Apple bids in more countries, holiday returns run to January 8, a .5 billion bond sale, and a Senate request for ballroom donation records.</description>
+      <pubDate>Sat, 07 Nov 2026 12:21:39 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-7-2026-2026-11-07</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-ab624f8b-d9de-4b4c-9154-2866664e5972.mp3" length="4347301" type="audio/mpeg"/>
+      <itunes:duration>543</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 6, 2026</title>
+      <description>Five new products reach first buyers on launch day, Logic Pro 13.0 kicks off the Creator Studio rollout with a subscription-only assistant, Apple surveys iPhone Duo owners on the crease and camera, Counterpoint says Apple took half of all global smartphone revenue, Awkwafina premieres on Apple TV, and Formula 1 expects Apple bids in more countries.</description>
+      <pubDate>Fri, 06 Nov 2026 12:20:03 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-6-2026-2026-11-06</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-633d62b3-bf1a-4726-80b3-422e15da9e75.mp3" length="3102757" type="audio/mpeg"/>
+      <itunes:duration>387</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 5, 2026</title>
+      <description>Apple stock hits a record 49.51 close, apps can now pitch you before you cancel, dating and AI companion apps go 18+, a spyware alert wave reaches 99 countries, and NBA 2K27 brings the WNBA to Apple Arcade.</description>
+      <pubDate>Thu, 05 Nov 2026 12:25:16 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-5-2026-2026-11-05</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-f38e8167-99f7-4c03-96f3-f3d37068c71e.mp3" length="3575845" type="audio/mpeg"/>
+      <itunes:duration>446</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 4, 2026</title>
+      <description>iOS 27.3 beta 1 brings Safari Vertical Tabs, the redesigned Health app, expanded Siri AI and Fitness+ Gym Strength, plus a Lockdown Mode jailbreak demo and Stick season 2&#x27;s premiere.</description>
+      <pubDate>Wed, 04 Nov 2026 12:21:36 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-4-2026-2026-11-04</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-bdee49b9-fa77-4ade-aec2-9d54d1c064a6.mp3" length="3311077" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 3, 2026</title>
+      <description>Apple posts record Q4 results under Ternus, but December margin guidance on unprecedented memory costs sends shares down, Services hits a new high, and Ternus says Duo supply cannot be predicted.</description>
+      <pubDate>Tue, 03 Nov 2026 12:17:27 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-3-2026-2026-11-03</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-0415a59d-40b6-4b4a-9cb2-9e9d0929785a.mp3" length="3076453" type="audio/mpeg"/>
+      <itunes:duration>384</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 2, 2026</title>
+      <description>Earnings day puts Apple&#x27;s margin in the spotlight, Gurman maps three new iPads and the 2027 Mac lineup, Duo owners hit a replacement crunch, and Friday&#x27;s five-product launch has one slipping model.</description>
+      <pubDate>Mon, 02 Nov 2026 12:18:47 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-2-2026-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-45082cb2-be1a-429b-8925-6600714a1c08.mp3" length="2829349" type="audio/mpeg"/>
+      <itunes:duration>353</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - November 1, 2026</title>
+      <description>The Apple Watch daylight saving fix, John Ternus on not shipping AI for its own sake, a HomeView software tour, Apple Maps blurring selected bases, and the iPad mini battery label.</description>
+      <pubDate>Sun, 01 Nov 2026 12:17:58 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-1-2026-2026-11-01</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-b0469256-81ae-445c-87ba-0bde12acf49e.mp3" length="3185125" type="audio/mpeg"/>
+      <itunes:duration>398</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 31, 2026</title>
+      <description>Apple Intelligence is finally headed to China in iOS 27.3, Taiwan developers get a commission cut to 26 percent, Apple closes back on top of Nvidia at 5.03 trillion dollars, an Ascend.io acqui-hire surfaces, and Pluribus season two starts filming today.</description>
+      <pubDate>Sat, 31 Oct 2026 11:18:26 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-31-2026-2026-10-31</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-e827fea5-9e04-4645-a41f-afba4dc3b7d3.mp3" length="3279013" type="audio/mpeg"/>
+      <itunes:duration>409</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 30, 2026</title>
+      <description>HomePod mini 2 goes on sale with Siri AI still to come, the OLED iPad mini beats the iPad Pro on single-core in Geekbench, you can turn the touchscreen MacBook Pro&#x27;s touch off, the iPhone Air 2 leaks dual cameras and a bigger battery, and a forgotten Popcorn Time updater left up to 350,000 Macs exposed.</description>
+      <pubDate>Fri, 30 Oct 2026 11:17:30 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-30-2026-2026-10-30</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-1fcd416f-7052-40dc-87b5-68bc6ee6b96c.mp3" length="3345829" type="audio/mpeg"/>
+      <itunes:duration>418</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 29, 2026</title>
+      <description>Touchscreen MacBook Pro is official with PROLED XDR and a glowing logo, eight products are on pre-order, earnings preview ahead of November 2, iPhone 18 Pro sales are carried by China, and a high-severity security warning.</description>
+      <pubDate>Thu, 29 Oct 2026 11:18:08 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-29-2026-2026-10-29</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-50af8110-d50b-4f36-90ce-6f661ab2abcc.mp3" length="3681253" type="audio/mpeg"/>
+      <itunes:duration>460</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 28, 2026</title>
+      <description>M6 MacBook Pro and iMac are official, the first touchscreen MacBook Pro is expected today at Pro and Tell, Creator Studio gets a major AI update, South Korea fines Apple over app payments, and the tvOS 27.2 release notes land.</description>
+      <pubDate>Wed, 28 Oct 2026 11:19:14 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-28-2026-2026-10-28</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-c43ee823-d163-4990-a1c7-58cbac94c6b0.mp3" length="3677797" type="audio/mpeg"/>
+      <itunes:duration>459</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 27, 2026</title>
+      <description>iOS 27.2 ships with a Siri that finally remembers, the OLED iPad mini is official, Apple confirms the Duo display issue, and the Touch Bar turns ten on the eve of the touchscreen MacBook Pro.</description>
+      <pubDate>Tue, 27 Oct 2026 11:18:34 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-27-2026-2026-10-27</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-3e42e087-0d7a-44eb-8f78-5684b3496d5e.mp3" length="3272293" type="audio/mpeg"/>
+      <itunes:duration>409</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 26, 2026</title>
+      <description>iFixit points to a hinge support bar stress hotspot behind Duo screen cracks, Apple&#x27;s thirty-year display veterans hand over to Victor Yin, OLED MacBook Air and iMac stay in testing, Duo 2 prototypes test under-display Face ID, and Apple Stores get a sealed-box iPhone checker.</description>
+      <pubDate>Mon, 26 Oct 2026 11:18:12 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-26-2026-2026-10-26</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-7415a152-61d5-404a-8b75-ede1cf8ce1c7.mp3" length="3366757" type="audio/mpeg"/>
+      <itunes:duration>420</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 25, 2026</title>
+      <description>Verizon pays for Duo delays, the Duo fails a harsh dust and bend test, Safari wants more outer screen, Instagram lands on Apple TV, and Servant&#x27;s copyright win is upheld.</description>
+      <pubDate>Sun, 25 Oct 2026 11:17:05 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-25-2026-2026-10-25</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-2e2d3950-664b-4939-9262-765e48d723cd.mp3" length="3399205" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 24, 2026</title>
+      <description>Launch-day iPhone Duo hinge cracks, Apple briefly passing Nvidia, the iPod&#x27;s 25th-anniversary Easter egg, bulk app subscriptions, and the DOJ discovery impasse.</description>
+      <pubDate>Sat, 24 Oct 2026 11:16:59 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-24-2026-2026-10-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-050669d6-c45f-4908-86bb-949a963da28a.mp3" length="3061285" type="audio/mpeg"/>
+      <itunes:duration>382</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 23, 2026</title>
+      <description>iPhone Duo launch day in stores worldwide, a 44 percent production hike to 14 million units, a Duo-only iOS 27.1 day-one update, the new Made for iPhone Duo App Store label, and Dark Matter&#x27;s penultimate episode.</description>
+      <pubDate>Fri, 23 Oct 2026 11:16:55 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-23-2026-2026-10-23</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-6a758e2c-2adf-4bfd-b474-6bb7c7de4c23.mp3" length="3571429" type="audio/mpeg"/>
+      <itunes:duration>446</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 22, 2026</title>
+      <description>Australia orders Fortnite back and rival app stores by March 2027, the first iPhone Duo reviews split on battery and heat, Gemini arrives in Google Maps on CarPlay, and Duo repair costs land at 999 dollars for the inner display.</description>
+      <pubDate>Thu, 22 Oct 2026 11:18:24 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-22-2026-2026-10-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-9b5f2444-459b-4b25-9f45-dcacaf634d88.mp3" length="3435493" type="audio/mpeg"/>
+      <itunes:duration>429</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 21, 2026 Launch Special</title>
+      <description>Pippa and Theadore launch Apple Updates Daily, the new home of the show, carrying the circuit apple cover Bryan chose. An evergreen welcome and introduction only, with no news headlines.</description>
+      <pubDate>Thu, 22 Oct 2026 03:01:13 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-21-2026-launch-special-2026-10-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-61ae1215-aab9-41f2-91e4-4a21675489f1.mp3" length="1621093" type="audio/mpeg"/>
+      <itunes:duration>202</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 21, 2026 Evening Update</title>
+      <description>Pippa and Theadore close out October 21 with Apple Pencil support for iPhone Duo, Reachability news, Apple&#x27;s official word on launch day store supply, and Apple Music&#x27;s new look.</description>
+      <pubDate>Wed, 21 Oct 2026 17:16:31 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-21-2026-evening-update-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/8023fe3e-43e6-4255-99d3-77155dd9288a/ep-3168cb40-bb71-46d9-839f-cde6816f49df.mp3" length="1770661" type="audio/mpeg"/>
+      <itunes:duration>221</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Apple Updates - October 7, 2026</title>
+      <description>Maya and Sam catch you up on today&#x27;s Apple news: the 27.2 betas and the redesigned Health app, the iPhone 18 Pro Max AT&amp;T cellular issue, Apple Books&#x27; fresh look, and Crossy Road Rush on Apple Arcade.</description>
+      <pubDate>Wed, 07 Oct 2026 12:54:59 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-october-7-2026-2026-10-07</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/8023fe3e-43e6-4255-99d3-77155dd9288a/ep-9ed343ca-db21-4e09-b9a4-108b98027af0.mp3" length="2230309" type="audio/mpeg"/>
+      <itunes:duration>278</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

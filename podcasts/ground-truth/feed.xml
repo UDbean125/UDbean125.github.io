@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Ground Truth: The Eastern AECO Daily</title>
+    <link>https://hen-solutions.com</link>
+    <atom:link href="https://udbean125.github.io/podcasts/ground-truth/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
+    <language>en-us</language>
+    <copyright>Bryan Hennigan</copyright>
+    <lastBuildDate>Thu, 19 Nov 2026 22:07:30 GMT</lastBuildDate>
+    <itunes:author>Bryan Hennigan</itunes:author>
+    <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bryan Hennigan</itunes:name>
+      <itunes:email>BryanHennigan@iCloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://udbean125.github.io/podcasts/ground-truth/cover.jpg"/>
+    <image>
+      <url>https://udbean125.github.io/podcasts/ground-truth/cover.jpg</url>
+      <title>Ground Truth: The Eastern AECO Daily</title>
+      <link>https://hen-solutions.com</link>
+    </image>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 19, 2026</title>
+      <description>A second boring machine joins the Hudson Tunnel, North Carolina writes data center power into fifteen year contracts, the Washington airports buy program controls for a twenty billion dollar rebuild, and Georgia breaks ground on its first new state psychiatric hospital in sixty years.</description>
+      <pubDate>Thu, 19 Nov 2026 11:19:40 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-19-2026-2026-11-19</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-84919452-2577-4a51-b921-e01891ca2f2c.mp3" length="5750053" type="audio/mpeg"/>
+      <itunes:duration>718</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 18, 2026</title>
+      <description>Portal North Bridge enters full service retiring the 116-year-old Portal Bridge, Newark Liberty advances its central plant replacement, Astoria breaks ground on a 320 million dollar club and housing project, Effingham approves the Project Camellia site plan, and Virginia&#x27;s 495 NEXT wins the national Grand Prize.</description>
+      <pubDate>Wed, 18 Nov 2026 11:19:45 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-18-2026-2026-11-18</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-f6d94404-584f-4b4f-bfd7-2adcb155ea28.mp3" length="6500389" type="audio/mpeg"/>
+      <itunes:duration>812</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 17, 2026</title>
+      <description>PennDOT names a 1.289 billion dollar low bid for the I-83 South Bridge, BMW opens Plant Woodruff, Spartanburg approves three data center agreements, and new data center and power permits move in North Carolina and Georgia.</description>
+      <pubDate>Tue, 17 Nov 2026 11:19:33 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-17-2026-2026-11-17</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-3ff096f8-0af7-4ff7-8d3f-9b5fd3af8fd6.mp3" length="6449893" type="audio/mpeg"/>
+      <itunes:duration>806</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 16, 2026</title>
+      <description>Dulles opens Concourse E in its 22.5 billion dollar Global Gateway plan, Ohio sets beams on the 700 foot Pratts Fork Creek bridge and weighs the Project Kion plant, Astec sells Roadtec to Komatsu, and Spartanburg heads to final data center votes.</description>
+      <pubDate>Mon, 16 Nov 2026 11:18:23 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-16-2026-2026-11-16</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-789a584a-85c0-457e-983f-99ec862c333e.mp3" length="4825189" type="audio/mpeg"/>
+      <itunes:duration>603</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 15, 2026</title>
+      <description>Crow Holdings and PGIM break ground on The Apex in New Jersey, Fluidstack builds a billion dollar Virginia campus, BWXT and ABB expand in Tennessee, and safety grants land in South Carolina and Georgia.</description>
+      <pubDate>Sun, 15 Nov 2026 11:19:06 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-15-2026-2026-11-15</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-234701d0-636f-4d4f-86c4-504e3b350d13.mp3" length="5536933" type="audio/mpeg"/>
+      <itunes:duration>692</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 14, 2026</title>
+      <description>GlobalFoundries breaks ground on a ten billion dollar Malta fab, Eli Lilly breaks ground on a three point five billion dollar Lehigh Valley plant, Ohio hospitals announce over two billion dollars, and Graitec ships the Ideate Suite with an AI Assistant for Revit.</description>
+      <pubDate>Sat, 14 Nov 2026 11:18:50 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-14-2026-2026-11-14</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-f07e57e9-4f28-4519-a8fc-3c8dc58b9398.mp3" length="5117029" type="audio/mpeg"/>
+      <itunes:duration>639</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 13, 2026</title>
+      <description>Simon breaks ground on the 100 acre Sagefield in Tennessee, SupplyHouse lands in Georgia, Amazon funds Virginia community college credentials, and Trimble embeds AI inside Connect.</description>
+      <pubDate>Fri, 13 Nov 2026 11:18:24 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-13-2026-2026-11-13</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-f2246591-00fe-4e2a-b653-5a3b18ee2cd0.mp3" length="4449061" type="audio/mpeg"/>
+      <itunes:duration>556</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 12, 2026</title>
+      <description>Charlotte approves the 2.1 billion dollar CLT Beyond airport program, QTS files its 4 billion dollar Van Wert campus numbers, Cleveland breaks ground on its riverfront amphitheater, and AI agents move inside the BIM model.</description>
+      <pubDate>Thu, 12 Nov 2026 11:18:51 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-12-2026-2026-11-12</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-d5796013-103d-45e9-8a60-60db5bc0f26b.mp3" length="4587685" type="audio/mpeg"/>
+      <itunes:duration>573</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 11, 2026</title>
+      <description>Oracle breaks ground in Nashville, Lambda names itself for the 33.1 billion dollar Red Clay campus, New York starts 178 million dollars in White Plains housing, and CMS awards 10 billion dollars for rural health.</description>
+      <pubDate>Wed, 11 Nov 2026 11:19:34 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-11-2026-2026-11-11</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-1f2fe3aa-e6e3-47a9-afdb-1a41cf4375a8.mp3" length="6233701" type="audio/mpeg"/>
+      <itunes:duration>779</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 10, 2026</title>
+      <description>Honda bets 3.38 billion dollars on Ohio, EdgeCore closes 1.5 billion dollars for Virginia data centers, New York funds shovel ready sites, Alabama replaces an 87 year old bridge, and York County breaks ground on fiber.</description>
+      <pubDate>Tue, 10 Nov 2026 11:19:05 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-10-2026-2026-11-10</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-803b5932-118d-44f3-bfaa-bc015dc9848e.mp3" length="5645989" type="audio/mpeg"/>
+      <itunes:duration>705</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 9, 2026</title>
+      <description>Maryland clears the Chesapeake Bay Crossing for two new spans, Stack tops out its first Stafford data center building, New York funds county infrastructure and tops out a hospital expansion, and Newington approves Seacoast Landing.</description>
+      <pubDate>Mon, 09 Nov 2026 11:18:05 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-9-2026-2026-11-09</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-0b46caaa-7c81-46ef-81ee-71b0fdc89ad4.mp3" length="3952165" type="audio/mpeg"/>
+      <itunes:duration>494</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 8, 2026</title>
+      <description>Connecticut breaks ground on the 1.6 billion dollar TIME-1 rail program, Philadelphia builds its first Center City housing, Raleigh to Richmond rail lands 550 million dollars, and Ohio awards 274 million dollars to finish US 33.</description>
+      <pubDate>Sun, 08 Nov 2026 11:20:56 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-8-2026-2026-11-08</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-ad42bd72-f6b6-4d4a-a663-26e45cca9d6a.mp3" length="7235365" type="audio/mpeg"/>
+      <itunes:duration>904</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 7, 2026</title>
+      <description>New Jersey kicks off the 6.7 billion dollar Newark Bay Bridge replacement and awards the 712 million dollar Hudson Tunnel Surface Alignment, Spartanburg advances two billion dollar data center deals, Alabama funds 73 million dollars of airport work, and Autodesk opens Informed Design for Fusion beta.</description>
+      <pubDate>Sat, 07 Nov 2026 11:20:22 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-7-2026-2026-11-07</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-c82f9a4f-d9dc-4a84-b89d-5808638d1bb1.mp3" length="5594533" type="audio/mpeg"/>
+      <itunes:duration>699</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 6, 2026</title>
+      <description>Dearborn approves the largest school bond in Michigan history at 1.51 billion dollars, Wake and coastal North Carolina fund schools, Rhode Island splits its 600 million dollar ballot, Virginia breaks ground on Hampton Roads Segment 1B, Revolution Wind reaches full power, and Google is confirmed in Lima, Ohio.</description>
+      <pubDate>Fri, 06 Nov 2026 11:22:09 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-6-2026-2026-11-06</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-fad81c9d-2825-4bf8-b209-aba9a428ca55.mp3" length="5954341" type="audio/mpeg"/>
+      <itunes:duration>744</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 5, 2026</title>
+      <description>Lambda names itself for Alabama&#x27;s 33.1 billion dollar Red Clay campus, Philadelphia rebuilds I-95 northbound, Ohio and Michigan voters fund new schools, Rhode Island backs a Providence school rebirth, and Tennessee breaks ground on two healing projects in Knoxville and Unicoi County.</description>
+      <pubDate>Thu, 05 Nov 2026 11:19:41 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-5-2026-2026-11-05</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-e2d25dfa-7e4c-4ffd-9ac8-3efba08624e2.mp3" length="5221093" type="audio/mpeg"/>
+      <itunes:duration>652</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 4, 2026</title>
+      <description>Georgia approves two billion dollar data centers, Vantage buys the Powhatan site in Virginia, WhiteFiber closes in North Carolina, plus battery plants in Connecticut and Ohio and a power readiness lesson for every AECO team.</description>
+      <pubDate>Wed, 04 Nov 2026 11:22:52 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-4-2026-2026-11-04</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-e222e285-40da-4c6b-a885-f0c37c379dff.mp3" length="5104549" type="audio/mpeg"/>
+      <itunes:duration>638</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 3, 2026</title>
+      <description>New York awards 249 million dollars for water projects, Rhode Island votes on a record 600 million dollars in bonds, Electra builds an 850 million dollar aircraft plant in Ohio, Tennessee approves a 147 million dollar courthouse renovation, and Google plans a 7 billion dollar West Virginia data center campus.</description>
+      <pubDate>Tue, 03 Nov 2026 11:18:57 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-3-2026-2026-11-03</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-e42ddd66-23a5-4f6c-bfe7-713c02186fd6.mp3" length="5649253" type="audio/mpeg"/>
+      <itunes:duration>706</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 2, 2026</title>
+      <description>The FRA awards 1.24 billion dollars to eliminate grade crossings with New York taking the largest award, plus a 40 million dollar Rogers Road bridge contract in Wake Forest, Pennsylvania safety and charging awards, and Autodesk named a Leader in the IDC MarketScape for construction management.</description>
+      <pubDate>Mon, 02 Nov 2026 11:18:45 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-2-2026-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-077848a3-b867-4e3c-9ba6-8cc28e1b4e7c.mp3" length="6123301" type="audio/mpeg"/>
+      <itunes:duration>761</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - November 1, 2026</title>
+      <description>Enfield rail returns after 40 years, Mon Fayette Expressway opens, Allenwood data center earns approval while a Lansing pitch meets resistance, plus Corman rail, PJM storage, and a new AI design agent test.</description>
+      <pubDate>Sun, 01 Nov 2026 11:19:34 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-1-2026-2026-11-01</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-5b84fcb2-b32e-4de5-9e80-32ea3394350d.mp3" length="7094245" type="audio/mpeg"/>
+      <itunes:duration>886</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 31, 2026</title>
+      <description>AEP maps three 765kV lines for Ohio&#x27;s 10.4 gigawatt Piketon campus and lifts its plan to 100 billion dollars, NVIDIA weighs backing Nscale&#x27;s West Virginia Anthropic campus, and Jefferson Health breaks ground in Coopersburg.</description>
+      <pubDate>Sat, 31 Oct 2026 10:18:05 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-31-2026-2026-10-31</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-8b3ee7de-83d9-45f8-91dd-7aeca95cf259.mp3" length="5077861" type="audio/mpeg"/>
+      <itunes:duration>634</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 30, 2026</title>
+      <description>Edwards Vacuum finishes its 319 million dollar New York plant, Jacobs takes on AEP&#x27;s 37 billion dollar transmission program, FirstEnergy maps 6 gigawatts of West Virginia data center demand, and Newark tops off a 1.8 billion dollar hospital rebuild.</description>
+      <pubDate>Fri, 30 Oct 2026 10:19:14 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-30-2026-2026-10-30</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-6dd2054d-c44d-4d54-a3f4-f3dde6d2f096.mp3" length="5988709" type="audio/mpeg"/>
+      <itunes:duration>748</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 29, 2026</title>
+      <description>Seneca Park Zoo breaks ground in Rochester, Maryland opens a 200 million dollar energy grant competition, Brose Sitech picks South Carolina, Hyundai expands in Montgomery, and Autodesk earns an IDC Leader spot.</description>
+      <pubDate>Thu, 29 Oct 2026 10:17:59 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-29-2026-2026-10-29</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-238fc05e-28dd-4feb-b25a-45893a05511b.mp3" length="4853413" type="audio/mpeg"/>
+      <itunes:duration>606</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 28, 2026</title>
+      <description>Salem finishes PFAS treatment, New Haven deepens its harbor, Tennessee clarifies the I-24 concession, Bracco picks Sanford, SteelFab and First Solar grow in South Carolina, and Georgia Transformer breaks ground in Rincon.</description>
+      <pubDate>Wed, 28 Oct 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-28-2026-2026-10-28</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-bbac524f-df21-4fa4-b26a-3e615cbf2da7.mp3" length="5509285" type="audio/mpeg"/>
+      <itunes:duration>688</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 27, 2026</title>
+      <description>Central Park breaks ground on flood control, the MTA rolls out modern fare gates, SendCutSend and Blue Bird expand factories, Pennsylvania rewrites fabrication wage rules, and federal manufacturing money lands in Virginia and Georgia.</description>
+      <pubDate>Tue, 27 Oct 2026 10:20:41 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-27-2026-2026-10-27</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-25e586ef-c686-430b-ad7a-6c8185bdacd1.mp3" length="7293733" type="audio/mpeg"/>
+      <itunes:duration>911</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 26, 2026</title>
+      <description>Audi plans a four billion dollar Georgia plant, Pittsburgh starts its one billion dollar Ohio River Tunnel, a closed Ohio paper mill races to become an AI campus, and Sistersville tops out its new hospital.</description>
+      <pubDate>Mon, 26 Oct 2026 10:17:56 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-26-2026-2026-10-26</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-218b8759-d49b-4906-9a38-1d11b0b94167.mp3" length="5562085" type="audio/mpeg"/>
+      <itunes:duration>695</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 25, 2026</title>
+      <description>Albany breaks ground twice, Westinghouse bets a billion dollars on nuclear fuel in South Carolina, Mitsubishi Power expands in Savannah, and water treatment projects move in Fayetteville and West Virginia, plus thermal reference kits in Revit and Forma and carbon accounting from the BIM model.</description>
+      <pubDate>Sun, 25 Oct 2026 10:18:06 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-25-2026-2026-10-25</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-3890781d-760a-4632-b818-685cf19ebce0.mp3" length="5056165" type="audio/mpeg"/>
+      <itunes:duration>632</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 24, 2026</title>
+      <description>MTA launches a 1.9 billion dollar signal overhaul, Niagara Power Transformer breaks ground in Buffalo, Corning invests 585 million dollars in Wilmington, and Dominion clears the local vote for a 3,000 megawatt Virginia plant.</description>
+      <pubDate>Sat, 24 Oct 2026 10:18:51 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-24-2026-2026-10-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-72e7285e-0e3a-4266-bbfb-630af860b25b.mp3" length="6349669" type="audio/mpeg"/>
+      <itunes:duration>793</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 23, 2026</title>
+      <description>New York and Pennsylvania fund 130 water projects, Chattanooga breaks ground on its 282 million dollar courthouse, Hagerstown lands a 355,000 square foot plant, and SOAR AI files its Chillicothe math.</description>
+      <pubDate>Fri, 23 Oct 2026 10:19:02 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-23-2026-2026-10-23</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-acba66be-5b12-478a-9210-858275b1d11f.mp3" length="5987365" type="audio/mpeg"/>
+      <itunes:duration>748</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 22, 2026</title>
+      <description>Kinder Morgan approves the 3.1 billion dollar Southeast Connector, Intel raises the first truss at New Albany, NCDOT awards the I-85 widening, and Virginia Tech lands a rail resilience center.</description>
+      <pubDate>Thu, 22 Oct 2026 10:18:02 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-22-2026-2026-10-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-270e8346-0fba-49b4-a74a-cc03b6430b01.mp3" length="4871845" type="audio/mpeg"/>
+      <itunes:duration>608</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ground Truth - October 21, 2026 Evening Update</title>
+      <description>Pippa and Theadore return with the day&#x27;s late territory stories: Georgia selects a Ferrovial led group for the 8.9 billion dollar I-285 East Express Lanes, PJM approves an 11.8 billion dollar transmission plan, Effingham County staffs up for the 3.2 gigawatt OpenAI campus, and Colleton County draws a data center exclusion area around the ACE Basin.</description>
+      <pubDate>Wed, 21 Oct 2026 17:00:48 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-october-21-2026-evening-update-2026-10-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-f5c36a30-90a0-497e-9a20-29e4d7ebcdcf.mp3" length="4371493" type="audio/mpeg"/>
+      <itunes:duration>546</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
