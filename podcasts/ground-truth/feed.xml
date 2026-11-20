@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 23:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:11:37 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 20, 2026</title>
+      <description>A billion dollar Jersey City hospital campus, an eight billion dollar Spotsylvania data center approval, the Triboro benefits agreement in Pennsylvania, a Chambers Street station rebuild, and Georgia water funding, plus BIMDeX and the November Forma releases.</description>
+      <pubDate>Fri, 20 Nov 2026 11:19:09 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-20-2026-2026-11-20</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-a2821f28-97aa-4599-9e4a-022011c36a94.mp3" length="4925029" type="audio/mpeg"/>
+      <itunes:duration>615</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 19, 2026</title>
       <description>A second boring machine joins the Hudson Tunnel, North Carolina writes data center power into fifteen year contracts, the Washington airports buy program controls for a twenty billion dollar rebuild, and Georgia breaks ground on its first new state psychiatric hospital in sixty years.</description>

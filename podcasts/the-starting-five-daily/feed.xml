@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 23:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:11:37 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 20, 2026</title>
+      <description>Pippa and Theadore on Cade Cunningham&#x27;s probable return for the Pistons&#x27; NBA Cup game against Toronto, Kerby Joseph&#x27;s full Thursday practice and Baker Mayfield&#x27;s return for Lions-Bucs week, Ryan Day&#x27;s radio show notes before Ohio State&#x27;s trip to Nebraska, South Carolina&#x27;s Thursday availability moves before number one Georgia, and Dayton&#x27;s Charleston Classic opener against Utah in the Chapel Blue uniforms.</description>
+      <pubDate>Fri, 20 Nov 2026 10:46:49 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-20-2026-2026-11-20</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-aa25f4ef-85c5-4eff-aa22-34a829ad8577.mp3" length="6318181" type="audio/mpeg"/>
+      <itunes:duration>789</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 19, 2026</title>
       <description>Pippa and Theadore on the Pistons winning in New Orleans without Cade Cunningham, Kerby Joseph&#x27;s activation and Aidan Hutchinson to injured reserve for the Lions, Ohio State&#x27;s Wednesday availability report for Nebraska, LaNorris Sellers cleared for South Carolina&#x27;s night game against number one Georgia, and Dayton&#x27;s Charleston Classic opener against Utah.</description>
