@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 14:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:11:39 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 21, 2026</title>
+      <description>Daily coverage of the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton basketball with Pippa and Theadore.</description>
+      <pubDate>Sat, 21 Nov 2026 10:47:41 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-21-2026-2026-11-21</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-1d9092f2-75b2-427f-b964-f8c1bc9cf78a.mp3" length="6880165" type="audio/mpeg"/>
+      <itunes:duration>860</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 20, 2026</title>
       <description>Pippa and Theadore on Cade Cunningham&#x27;s probable return for the Pistons&#x27; NBA Cup game against Toronto, Kerby Joseph&#x27;s full Thursday practice and Baker Mayfield&#x27;s return for Lions-Bucs week, Ryan Day&#x27;s radio show notes before Ohio State&#x27;s trip to Nebraska, South Carolina&#x27;s Thursday availability moves before number one Georgia, and Dayton&#x27;s Charleston Classic opener against Utah in the Chapel Blue uniforms.</description>
