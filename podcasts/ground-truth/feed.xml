@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 14:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:11:34 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 22, 2026</title>
+      <description>Yale opens its 838 million dollar neurosciences center, Cleveland Cliffs commits 1 billion dollars to Middletown Works, Stafford County pushes back on 37 data centers, and Microsoft files a new Virginia campus.</description>
+      <pubDate>Sun, 22 Nov 2026 11:18:15 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-22-2026-2026-11-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-47e368de-a238-45c3-b6f6-e1e9bf42e555.mp3" length="4813669" type="audio/mpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 21, 2026</title>
       <description>The Senate passes sweeping permitting reform, New York clears Propel NY transmission and completes its nuclear master plan, Maryland awards the Key Bridge demolition contract far under estimate, plus Cleveland, Youngstown, Manalapan and Dothan build news and the new Autodesk Content Catalog preview.</description>

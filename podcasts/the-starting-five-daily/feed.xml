@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 14:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:11:34 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 22, 2026</title>
+      <description>Pippa and Theadore cover Ohio State&#x27;s season-ending 31-28 loss at Nebraska, South Carolina&#x27;s 34-6 loss to No. 1 Georgia, Kerby Joseph&#x27;s return for the Lions against Tampa Bay, the Pistons&#x27; trip to Atlanta, and Dayton&#x27;s Charleston Classic finale against Northwestern.</description>
+      <pubDate>Sun, 22 Nov 2026 10:49:45 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-22-2026-2026-11-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-2bc82e40-87f8-483b-b417-04e10e7d5f74.mp3" length="7324261" type="audio/mpeg"/>
+      <itunes:duration>915</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 21, 2026</title>
       <description>Daily coverage of the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton basketball with Pippa and Theadore.</description>

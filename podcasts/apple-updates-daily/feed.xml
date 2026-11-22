@@ -7,7 +7,7 @@
     <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 14:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:11:33 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Apple Updates - November 22, 2026</title>
+      <description>A 250 million dollar Siri settlement deadline looms on December 21, F1 Academy joins Apple TV in 2027, Presumed Innocent season 2 gets its February date, camera chief Jon McCormack retires, and Halide turns the iPhone Duo screen into a flash.</description>
+      <pubDate>Sun, 22 Nov 2026 12:17:50 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-22-2026-2026-11-22</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-9bfea021-c1bd-4f5d-8e27-ab9b3f170b66.mp3" length="2929189" type="audio/mpeg"/>
+      <itunes:duration>366</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apple Updates - November 21, 2026</title>
       <description>Signal blocks Siri AI from its chats, a startup sues Apple over NameDrop in India, iPhone Air 2 dummy models surface, Apple passes on World Cup rights, and GM expands Wallet car keys.</description>
