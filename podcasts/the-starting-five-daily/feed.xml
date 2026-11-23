@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 14:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:11:42 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 23, 2026</title>
+      <description>Pippa and Theadore break down the Lions&#x27; sixth straight win over Tampa Bay with Kerby Joseph&#x27;s return, the Pistons&#x27; fourth-quarter collapse in Atlanta and their Cup stakes in Orlando, Ohio State clinging to No. 25 ahead of Michigan, South Carolina&#x27;s poll wipeout and favored trip to Clemson, and Dayton&#x27;s Charleston flop against Northwestern.</description>
+      <pubDate>Mon, 23 Nov 2026 10:48:20 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-23-2026-2026-11-23</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-3d93713a-59da-4a82-bc32-f4d1fde79608.mp3" length="7201765" type="audio/mpeg"/>
+      <itunes:duration>900</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 22, 2026</title>
       <description>Pippa and Theadore cover Ohio State&#x27;s season-ending 31-28 loss at Nebraska, South Carolina&#x27;s 34-6 loss to No. 1 Georgia, Kerby Joseph&#x27;s return for the Lions against Tampa Bay, the Pistons&#x27; trip to Atlanta, and Dayton&#x27;s Charleston Classic finale against Northwestern.</description>

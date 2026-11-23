@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 14:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:11:42 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 23, 2026</title>
+      <description>Empire AI breaks ground in Buffalo, FeedMore opens its 115 million dollar Hamburg headquarters, Durham locks in the AbbVie campus incentives, Novartis breaks ground in the Triangle, Georgia files the logistics yard for an eight million square foot data center, and Esri and Bentley move GIS and AI into the live design file.</description>
+      <pubDate>Mon, 23 Nov 2026 11:18:17 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-23-2026-2026-11-23</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-6c73ee9c-ceee-4447-9fb8-266049cda821.mp3" length="4402789" type="audio/mpeg"/>
+      <itunes:duration>550</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 22, 2026</title>
       <description>Yale opens its 838 million dollar neurosciences center, Cleveland Cliffs commits 1 billion dollars to Middletown Works, Stafford County pushes back on 37 data centers, and Microsoft files a new Virginia campus.</description>
