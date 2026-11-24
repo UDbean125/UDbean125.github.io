@@ -7,7 +7,7 @@
     <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 14:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:11:28 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Apple Updates - November 24, 2026</title>
+      <description>Apple revives (PRODUCT)RED for December 1, Ted Lasso is renewed for season 5, a four-part TIMBERLAKE documentary is dated, 55,000 EU businesses challenge Apple&#x27;s browser rules, and Berkshire Hathaway stops selling Apple.</description>
+      <pubDate>Tue, 24 Nov 2026 12:18:06 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-24-2026-2026-11-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/a31b981d-c2ec-4e69-b6c7-9cd53e3c0d1f/ep-95d74142-24c7-42a4-9aa3-dec80961483a.mp3" length="3687870" type="audio/mpeg"/>
+      <itunes:duration>458</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apple Updates - November 23, 2026</title>
       <description>Apple clusters a spring 2027 launch wave for February and March, the MacBook Neo goes annual, Gurman clarifies the Siri layoffs, a hidden widget column surfaces on the iPhone Duo, and three workers die at a Tata iPhone plant in India.</description>

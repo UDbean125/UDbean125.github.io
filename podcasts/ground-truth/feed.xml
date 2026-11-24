@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 14:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:11:28 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 24, 2026</title>
+      <description>New York funds its ports, Ohio approves power built for data centers, Michigan backs a national lab computing center, and fresh projects land in Alabama, North Carolina, and Georgia.</description>
+      <pubDate>Tue, 24 Nov 2026 11:19:13 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-24-2026-2026-11-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/c5ead01e-8762-47f9-9e15-cd1f2f724070/ep-6d595013-c706-49fb-ae63-f7d557f75370.mp3" length="5948094" type="audio/mpeg"/>
+      <itunes:duration>741</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 23, 2026</title>
       <description>Empire AI breaks ground in Buffalo, FeedMore opens its 115 million dollar Hamburg headquarters, Durham locks in the AbbVie campus incentives, Novartis breaks ground in the Triangle, Georgia files the logistics yard for an eight million square foot data center, and Esri and Bentley move GIS and AI into the live design file.</description>

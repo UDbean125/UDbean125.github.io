@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 14:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:11:28 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 24, 2026</title>
+      <description>Pippa and Theadore cover the Lions&#x27; Thanksgiving injury report and the flipped Bears line, the Pistons&#x27; NBA Cup decider in Orlando, Ohio State&#x27;s Michigan week, South Carolina&#x27;s Palmetto Bowl returns, and Dayton&#x27;s injury picture before Memphis.</description>
+      <pubDate>Tue, 24 Nov 2026 10:47:27 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-24-2026-2026-11-24</guid>
+      <enclosure url="https://muse.ai/podcasts/media/680185131855187/71ed805c-49bb-40cb-9590-acd912d6d858/ep-dc72d274-be6b-4aac-9ffd-65b632885fe6.mp3" length="6871614" type="audio/mpeg"/>
+      <itunes:duration>856</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 23, 2026</title>
       <description>Pippa and Theadore break down the Lions&#x27; sixth straight win over Tampa Bay with Kerby Joseph&#x27;s return, the Pistons&#x27; fourth-quarter collapse in Atlanta and their Cup stakes in Orlando, Ohio State clinging to No. 25 ahead of Michigan, South Carolina&#x27;s poll wipeout and favored trip to Clemson, and Dayton&#x27;s Charleston flop against Northwestern.</description>
