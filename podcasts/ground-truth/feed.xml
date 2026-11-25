@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 02:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:11:26 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 25, 2026</title>
+      <description>Amtrak and the MTA agree to share Penn Station design documents, a two billion dollar Google data center in Michigan is stopped over a missing county permit, Panattoni proposes a three hundred megawatt campus in Ohio, and South Carolina funds twenty two rural infrastructure projects.</description>
+      <pubDate>Wed, 25 Nov 2026 11:17:31 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-25-2026-2026-11-25</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/ground-truth/episodes/ground-truth-november-25-2026-2026-11-25.mp3" length="3888510" type="audio/mpeg"/>
+      <itunes:duration>483</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 24, 2026</title>
       <description>New York funds its ports, Ohio approves power built for data centers, Michigan backs a national lab computing center, and fresh projects land in Alabama, North Carolina, and Georgia.</description>
