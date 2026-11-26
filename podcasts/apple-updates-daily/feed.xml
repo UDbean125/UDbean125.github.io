@@ -7,7 +7,7 @@
     <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 14:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:11:30 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Apple Updates - November 26, 2026</title>
+      <description>Thirty-two states back Epic in Apple&#x27;s Supreme Court appeal, Apple pulls the Talkie AI app worldwide over child safety reports, a new Hyderabad store opens December 10, Gurman reports iPads running macOS in the lab and a redesigned OLED MacBook Air in 2027 or 2028, and Screens turns the iPhone Duo into a tiny laptop.</description>
+      <pubDate>Thu, 26 Nov 2026 12:18:16 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-26-2026-2026-11-26</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-november-26-2026-2026-11-26.mp3" length="3329214" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apple Updates - November 25, 2026</title>
       <description>The (PRODUCT)RED lineup reportedly doubles to four items for December 1 with a 20th anniversary session at Apple SoHo, a Jimmy Chin iPhone 18 Pro photo makes TIME&#x27;s Top 100, the iPhone 18e leaks a square camera plateau, Tidal bans fully AI-made music while Apple Music sticks with labels, and Google joins Mozilla in Europe&#x27;s browser fight.</description>
