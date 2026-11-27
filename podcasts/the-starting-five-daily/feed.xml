@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 14:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:11:31 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 27, 2026</title>
+      <description>Pippa and Theadore break down the Lions&#x27; Thanksgiving collapse against Chicago, the shorthanded Pistons&#x27; NBA Cup finale against Milwaukee, Ohio State and Michigan, the Palmetto Bowl, and Dayton against Memphis.</description>
+      <pubDate>Fri, 27 Nov 2026 10:47:41 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-27-2026-2026-11-27</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/the-starting-five-daily/episodes/the-starting-five-november-27-2026-2026-11-27.mp3" length="7469694" type="audio/mpeg"/>
+      <itunes:duration>931</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 26, 2026</title>
       <description>Pippa and Theadore preview the Lions-Bears Thanksgiving showdown for first place, work the Pistons&#x27; NBA Cup tiebreaker math, and cover Ohio State&#x27;s Wednesday availability report, South Carolina&#x27;s returning starters for Clemson, and Memphis&#x27;s Jayden Reid ahead of Dayton.</description>

@@ -7,7 +7,7 @@
     <description>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 14:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:11:31 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing on Apple news: iPhone, Mac, iPad, Apple Watch, Apple TV, Vision Pro, services, software updates and the wider Apple ecosystem, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Apple Updates - November 27, 2026</title>
+      <description>Apple takes 57 percent of US smartphone shipments, South Korea probes iPhone 16 AI advertising, a judge orders Apple to produce 3,200 documents for Epic, a 3D-printed titanium iPhone 20 Pro rumour, and Careme wins an International Emmy.</description>
+      <pubDate>Fri, 27 Nov 2026 12:18:41 GMT</pubDate>
+      <guid isPermaLink="false">apple-updates-november-27-2026-2026-11-27</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/apple-updates-daily/episodes/apple-updates-november-27-2026-2026-11-27.mp3" length="3683070" type="audio/mpeg"/>
+      <itunes:duration>458</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Apple Updates - November 26, 2026</title>
       <description>Thirty-two states back Epic in Apple&#x27;s Supreme Court appeal, Apple pulls the Talkie AI app worldwide over child safety reports, a new Hyderabad store opens December 10, Gurman reports iPads running macOS in the lab and a redesigned OLED MacBook Air in 2027 or 2028, and Screens turns the iPhone Duo into a tiny laptop.</description>

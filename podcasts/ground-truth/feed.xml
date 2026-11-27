@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 14:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:11:31 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 27, 2026</title>
+      <description>Detroit approves the 2.2 billion dollar Renaissance Center redevelopment, Skanska lands a 275 million dollar Georgia data center award, Piedmont buys Aiken Regional for 500 million dollars, and a Virginia judge pauses Google&#x27;s 3 billion dollar Botetourt campus on a FOIA ruling.</description>
+      <pubDate>Fri, 27 Nov 2026 11:19:01 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-27-2026-2026-11-27</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/ground-truth/episodes/ground-truth-november-27-2026-2026-11-27.mp3" length="5450430" type="audio/mpeg"/>
+      <itunes:duration>678</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 26, 2026</title>
       <description>The Delaware River Port Authority approves an eight hundred million dollar capital program, Meta wins a site plan in Licking County, North Carolina funds Helene recovery downtowns, and Huntsville closes financing on Mill Creek.</description>
