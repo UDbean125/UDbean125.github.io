@@ -7,7 +7,7 @@
     <description>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 14:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:11:25 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily briefing for AECO professionals across the Eastern United States: territory headlines, infrastructure and construction news, a technology pulse, and Graitec and Autodesk updates, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ground Truth - November 28, 2026</title>
+      <description>New York finishes 34.7 million dollars of Thruway paving and names the Propel NY builders, North Carolina splits new hospital beds in Wilmington and approves AdventHealth in Weaverville, and Ohio puts 127 million dollars into brownfield cleanup.</description>
+      <pubDate>Sat, 28 Nov 2026 11:17:59 GMT</pubDate>
+      <guid isPermaLink="false">ground-truth-november-28-2026-2026-11-28</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/ground-truth/episodes/ground-truth-november-28-2026-2026-11-28.mp3" length="4340670" type="audio/mpeg"/>
+      <itunes:duration>540</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ground Truth - November 27, 2026</title>
       <description>Detroit approves the 2.2 billion dollar Renaissance Center redevelopment, Skanska lands a 275 million dollar Georgia data center award, Piedmont buys Aiken Regional for 500 million dollars, and a Virginia judge pauses Google&#x27;s 3 billion dollar Botetourt campus on a FOIA ruling.</description>

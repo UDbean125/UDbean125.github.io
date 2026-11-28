@@ -7,7 +7,7 @@
     <description>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</description>
     <language>en-us</language>
     <copyright>Bryan Hennigan</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 14:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:11:25 GMT</lastBuildDate>
     <itunes:author>Bryan Hennigan</itunes:author>
     <itunes:summary>A daily sports briefing covering only the Detroit Lions, Detroit Pistons, Ohio State football, South Carolina football, and Dayton men&#x27;s basketball, hosted by Pippa and Theadore.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,6 +23,16 @@
     </image>
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Starting Five - November 28, 2026</title>
+      <description>Pippa and Theadore on the Pistons winning their NBA Cup group shorthanded, Ohio State-Michigan and the Palmetto Bowl on a huge rivalry Saturday, the Lions&#x27; growing injury toll, and Dayton&#x27;s shot at ranked Memphis.</description>
+      <pubDate>Sat, 28 Nov 2026 10:47:14 GMT</pubDate>
+      <guid isPermaLink="false">the-starting-five-november-28-2026-2026-11-28</guid>
+      <enclosure url="https://udbean125.github.io/podcasts/the-starting-five-daily/episodes/the-starting-five-november-28-2026-2026-11-28.mp3" length="6482238" type="audio/mpeg"/>
+      <itunes:duration>807</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Starting Five - November 27, 2026</title>
       <description>Pippa and Theadore break down the Lions&#x27; Thanksgiving collapse against Chicago, the shorthanded Pistons&#x27; NBA Cup finale against Milwaukee, Ohio State and Michigan, the Palmetto Bowl, and Dayton against Memphis.</description>
